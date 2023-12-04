@@ -1,1 +1,1 @@
-# IWishApplication
+# IWishClientApplication
